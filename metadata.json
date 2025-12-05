@@ -1,0 +1,7 @@
+{
+  "name": "Gujju.Shop",
+  "description": "Gujarat nu Local Online Bazaar - Hyperlocal marketplace with Live Shopping and Smart Delivery.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
